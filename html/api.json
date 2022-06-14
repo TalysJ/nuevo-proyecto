@@ -1,0 +1,127 @@
+[{
+        "precio": 20000,
+        "id": 1,
+        "title": "Diablo 3 Eternal Collection",
+        "img": "../img/diablo3.jpg"
+    },
+    {
+        "precio": 30000,
+        "id": 2,
+        "title": "Call of Duty Vanguard",
+        "img": "../img/COD-vanguard-xbox.jpg"
+    },
+    {
+        "precio": 35000,
+        "id": 3,
+        "title": "Farcry 6",
+        "img": "../img/farcry6-xbox.jpg"
+    },
+    {
+        "precio": 40000,
+        "id": 4,
+        "title": "Horizon II Forbidden West",
+        "img": "../img/horizon-forbidden-ps5.jpg"
+    },
+    {
+        "precio": 30000,
+        "id": 5,
+        "title": "Forza Horizon 5",
+        "img": "../img/forza-horizon-5.jpeg"
+    },
+    {
+        "precio": 20000,
+        "id": 6,
+        "title": "Gears 5",
+        "img": "../img/gears5.jpeg"
+    },
+    {
+        "precio": 50000,
+        "id": 7,
+        "title": "Elden Ring",
+        "img": "../img/elden-ring.jpg"
+    },
+    {
+        "precio": 30000,
+        "id": 8,
+        "title": "Marvel: Guardians of the Galaxy",
+        "img": "../img/guardians-of-the-galaxy.jpeg"
+    },
+    {
+        "precio": 45000,
+        "id": 9,
+        "title": "Hogwarts Legacy",
+        "img": "../img/Hogwarts-Legacy.jpg"
+    },
+    {
+        "precio": 25000,
+        "id": 10,
+        "title": "Hades",
+        "img": "../img/hades.jpg"
+    },
+    {
+        "precio": 60000,
+        "id": 11,
+        "title": "Spider-Man Milles Morales: Ultimate Edition",
+        "img": "../img/spiderman.jpg"
+    },
+    {
+        "precio": 30000,
+        "id": 12,
+        "title": "GTA V",
+        "img": "../img/gta-v.jpg"
+    },
+    {
+        "precio": 10000,
+        "id": 13,
+        "title": "Red Dead Redemption 2",
+        "img": "../img/rdr2.jpg"
+    },
+    {
+        "precio": 150000,
+        "id": 14,
+        "title": "Need for Speed Heat",
+        "img": "../img/nfs-heat.png"
+    },
+    {
+        "precio": 50000,
+        "id": 15,
+        "title": "Fifa 22",
+        "img": "../img/fifa22.jpg"
+    },
+    {
+        "precio": 45000,
+        "id": 16,
+        "title": "NBA 22k",
+        "img": "../img/nba22k.jpg"
+    },
+    {
+        "precio": 25000,
+        "id": 17,
+        "title": "The Last of Us 2",
+        "img": "../img/the-last-of-us-2.jpg"
+    },
+    {
+        "precio": 20000,
+        "id": 18,
+        "title": "God of War",
+        "img": "../img/gow.jpeg"
+    },
+    {
+        "precio": 30000,
+        "id": 19,
+        "title": "Aliens: Fireteam Elite",
+        "img": "../img/aliens.jpg"
+    },
+    {
+        "precio": 40000,
+        "id": 20,
+        "title": "Biomutant",
+        "img": "../img/biomutant.jpg"
+    },
+    {
+        "precio": 50000,
+        "id": 21,
+        "title": "Assassins Creed Valhalla",
+        "img": "../img/assassins-creed-valhalla.jpg"
+    }
+]
