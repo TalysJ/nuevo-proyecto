@@ -1,5 +1,5 @@
-# Proyecto Silvestre Petshop
+# Proyecto Final Js Forza Game Shop
 
-## Codigo fuente silvestre petshop
-
-### ver [DEMO](https://talysj.github.io/js-entregafinal/) del sitio.
+## Codigo fuente Forza Game Shop
+ 
+### ver [DEMO](https://talysj.github.io/nuevo-proyecto/) del sitio.
